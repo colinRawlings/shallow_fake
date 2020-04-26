@@ -4,9 +4,9 @@ Low quality video manipulation using the high quality [menpo project](https://ww
 
 ## Setup
 
-Tested on os x 10.13
+Tested on os x 10.13, WSL
 
-- Install avconv (e.g. with `brew`)
+- Install avconv
 - Install python environment using [anaconda](https://anaconda.org):
     ```bash
     conda env create -n <your_env_name> -f shallow_fake.yml
