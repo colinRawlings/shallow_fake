@@ -1,0 +1,7 @@
+menpodetect
+menpofit
+opencv-python
+pandas
+pytz
+scikit-learn
+tqdm

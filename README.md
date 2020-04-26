@@ -11,3 +11,4 @@ Tested on os x 10.13
     ```bash
     conda env create -n <your_env_name> -f shallow_fake.yml
     ```
+- Install python-opencv (check `import cv2` works)

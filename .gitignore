@@ -1,0 +1,5 @@
+assets/output/
+__pycache__
+*.png
+*.jpg
+.vscode/
